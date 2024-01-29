@@ -9,4 +9,4 @@ Welcome to the Sipaa's Projects GitHub organization!
 ## What's coming soon?
 * Sipane, a modern server management panel wrote in JS (server) and in Dart/Flutter (client)
 * SITP (and it's implementation), HTTP made easier
-* Sipaamium, the first CEFSharp-based browser made with Windows App SDK.
+* Sipaamium, the first CEFSharp-based browser made with Windows App SDK. (Will remplace Browse)
