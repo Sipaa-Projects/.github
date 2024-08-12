@@ -1,12 +1,16 @@
 Welcome to the Sipaa's Projects GitHub organization!
 
-## What software we built?
-* SipaaKernel, a kernel built for the x86_64 & aarch64 architecture (shipped with SK-Build, a tool to build & configure the kernel)
-* Develop, an IDE for Windows
-* Browse, a web browser for Windows
-* SLang, a programming language
+## Our projects
+### Game dev
+* Neptune, a Minecraft-alike game.
 
-## What's coming soon?
-* Sipane, a modern server management panel wrote in JS (server) and in Dart/Flutter (client)
-* SITP (and it's implementation), HTTP made easier
-* Sipaamium, the first CEFSharp-based browser made with Windows App SDK. (Will remplace Browse)
+### Low level
+* Vanilla, an implementation of the UEFI v2.10 spec.
+* Soapine, an UEFI bootloader
+* SBuild, a build system in C#
+
+### Toolchains
+* The Sipaa Toolchain: a GCC-based toolchain for SipaaKernel.
+
+### Archived
+* SipaaKernel, an operating system kernel (Can break easily, is being remplaced by another project.)
